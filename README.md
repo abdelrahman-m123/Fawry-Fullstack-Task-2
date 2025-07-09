@@ -16,3 +16,8 @@ as mentioned in the task different product types have different properties and t
 
 - Customer class: encapsulates customer's email, name, address and has the buy book function that sends thier email to the email service if they purchase an ebook or sends their address to the shipping service if they are buying a paper book
 
+## Test Class
+the test class covers the Adding, Removing and Buying books as per the task discription:
+![Screenshot 2025-07-09 184556](https://github.com/user-attachments/assets/aadc3b52-48fd-4e5d-b64e-126ae18ca67a)
+
+
