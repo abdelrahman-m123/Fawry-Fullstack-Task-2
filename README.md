@@ -1,5 +1,5 @@
 # Fawry-Fullstack-Task-2
-## overall structure
+## Overall Structure
  ### product classes
 - Book Class: has ISBN, title, year.
 - EBook Class: inherites Book Class's attributes, and implements the Emailable and ForSale interfaces
